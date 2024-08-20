@@ -19,3 +19,4 @@
 git clone https://github.com/messense/aliyundrive-fuse.git package/aliyundrive-fuse
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/linkease/docker_ddnsto.git package/docker_ddnsto
+git clone https://github.com/iv7777/luci-app-zerotier-plus/tree/my-branch package/luci-app-zerotier-plus
